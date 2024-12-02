@@ -1,4 +1,6 @@
-## `escodegen` fork for `javascript-obfuscator` package
+## Added import attributes/assertions support (with & assert keyword)
+
+### `escodegen` fork for `javascript-obfuscator` package
 
 See: https://github.com/javascript-obfuscator/javascript-obfuscator/issues/795
 
