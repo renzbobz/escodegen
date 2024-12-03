@@ -1,5 +1,5 @@
 {
-  "name": "@javascript-obfuscator/escodegen",
+  "name": "@rzbz/escodegen",
   "description": "`escodegen` fork for `javascript-obfuscator``",
   "homepage": "http://github.com/estools/escodegen",
   "main": "escodegen.js",
